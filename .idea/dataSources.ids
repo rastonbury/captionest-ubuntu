@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails captionest-ubuntu: development" uuid="3b28499c-35d7-4230-a188-9aba1ad4ed44">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails captionest-ubuntu: test" uuid="2e2e2a30-1a45-49f2-8a8a-df572b28410a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails captionest-ubuntu: production" uuid="72dc9d8e-d2a3-4d93-9284-4c7cf6c608ce">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails captionest-ubuntu: development" uuid="3b28499c-35d7-4230-a188-9aba1ad4ed44">
+      <first-sync>true</first-sync>
+      <user-name>chris</user-name>
+    </data-source>
+    <data-source name="Rails captionest-ubuntu: test" uuid="2e2e2a30-1a45-49f2-8a8a-df572b28410a">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails captionest-ubuntu: production" uuid="72dc9d8e-d2a3-4d93-9284-4c7cf6c608ce">
+      <first-sync>true</first-sync>
+      <user-name>chris</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe9dfebdffadffedfe3dfe5dfe4dfefdff9dffedf87dfffdfe8dfffdfe4dffedfffdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
