@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: captionest-ubuntu_production
-  username: captionest-ubuntu
+  username: chris
   password: <%= ENV['CAPTIONEST-UBUNTU_DATABASE_PASSWORD'] %>
