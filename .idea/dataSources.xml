@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="647107822">
+    <data-source source="LOCAL" name="Rails captionest-ubuntu: development" uuid="3b28499c-35d7-4230-a188-9aba1ad4ed44">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:captionest-ubuntu_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails captionest-ubuntu: test" uuid="2e2e2a30-1a45-49f2-8a8a-df572b28410a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:captionest-ubuntu_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails captionest-ubuntu: production" uuid="72dc9d8e-d2a3-4d93-9284-4c7cf6c608ce">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:captionest-ubuntu_production</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
